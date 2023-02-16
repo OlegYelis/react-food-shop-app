@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-food-shop-app/static/css/main.7acaea2f.css",
-    "main.js": "/react-food-shop-app/static/js/main.07d3183d.js",
+    "main.css": "/react-food-shop-app/static/css/main.b3d61b83.css",
+    "main.js": "/react-food-shop-app/static/js/main.b5313e5e.js",
     "index.html": "/react-food-shop-app/index.html",
-    "main.7acaea2f.css.map": "/react-food-shop-app/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-food-shop-app/static/js/main.07d3183d.js.map"
+    "main.b3d61b83.css.map": "/react-food-shop-app/static/css/main.b3d61b83.css.map",
+    "main.b5313e5e.js.map": "/react-food-shop-app/static/js/main.b5313e5e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.b3d61b83.css",
+    "static/js/main.b5313e5e.js"
   ]
 }
