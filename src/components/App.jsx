@@ -1,10 +1,10 @@
+import { Route, Routes } from 'react-router-dom';
 import { Footer } from 'layout/Footer';
 import { Header } from 'layout/Header';
 import { About } from 'pages/About';
 import { Contacts } from 'pages/Contacts';
 import { Home } from 'pages/Home';
 import { NotFound } from 'pages/NotFound';
-import { Route, Routes } from 'react-router-dom';
 
 export const App = () => {
   return (
