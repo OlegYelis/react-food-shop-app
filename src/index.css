@@ -83,3 +83,8 @@ iframe {
   align-items: center;
 }
 
+.search__btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
